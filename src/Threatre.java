@@ -1,3 +1,10 @@
+import Person.Actor;
+import Person.Sex;
+import Show.Show;
+import Person.Director;
+import Show.Ballet;
+import Show.Opera;
+
 import java.util.ArrayList;
 
 public class Threatre {

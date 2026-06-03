@@ -1,3 +1,6 @@
+package Person;
+
+
 public class Person {
     protected String name;
     protected String surname;
@@ -11,5 +14,9 @@ public class Person {
 
     public void printFullName() {
         System.out.print(name + " " + surname + " ");
+    }
+
+    public String getSurname() {
+        return surname;
     }
 }

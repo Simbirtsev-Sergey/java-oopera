@@ -1,7 +1,9 @@
+package Person;
+
 import java.util.Objects;
 
 public class Actor extends Person {
-    protected int height;
+    protected final int height;
 
     public Actor(String name, String surname, Sex gender, int height) {
         super(name, surname, gender);
