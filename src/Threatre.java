@@ -1,9 +1,9 @@
-import Person.Actor;
-import Person.Sex;
-import Show.Show;
-import Person.Director;
-import Show.Ballet;
-import Show.Opera;
+import person.Actor;
+import person.Sex;
+import show.Show;
+import person.Director;
+import show.Ballet;
+import show.Opera;
 
 import java.util.ArrayList;
 
